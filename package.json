@@ -15,6 +15,10 @@
 	"devDependencies": {
 		"@babel/core": "^7.22.5",
 		"@babel/preset-env": "^7.22.5",
+		"@types/browser-sync": "^2.29.0",
+		"@types/gulp": "^4.0.17",
+		"@types/jquery": "^3.5.32",
+		"@types/webpack-stream": "^3.2.15",
 		"babel": "^6.23.0",
 		"babel-core": "^6.26.3",
 		"babel-loader": "^9.1.2",
